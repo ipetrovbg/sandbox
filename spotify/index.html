@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html ng-app="SpotifyApp">
+<head>
+	<title>Spotify App</title>
+	<script type="text/javascript">
+		var url = 'http://sandbox.dev/spotify/';
+	</script>
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="public/bower_components/angular-material/angular-material.css">
+     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="public/styles/custom.css">
+
+</head>
+<body>
+<!-- Libraries -->
+<script type="text/javascript" src="public/bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="public/bower_components/angular/angular.min.js"></script>
+<script type="text/javascript" src="public/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+<script src="public/bower_components/angular-aria/angular-aria.js"></script>
+<script src="public/bower_components/angular-animate/angular-animate.js"></script>
+<script src="public/bower_components/angular-material/angular-material.js"></script>
+<!-- /Libraries -->
+	
+	<div ui-view></div>
+
+<!-- App -->
+<script type="text/javascript" src="public/scripts/app/app.js"></script>
+<script type="text/javascript" src="public/scripts/app/services/artists.js"></script>
+<script type="text/javascript" src="public/scripts/app/controllers/main-controller.js"></script>
+<script type="text/javascript" src="public/scripts/app/controllers/canvas-controller.js"></script>
+<!-- /App -->
+</body>
+</html>

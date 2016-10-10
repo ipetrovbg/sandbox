@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://example.com/MaterialIcons-Regular.eot);
+  /* For IE6-8 */
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://example.com/MaterialIcons-Regular.woff2) format('woff2'), url(https://example.com/MaterialIcons-Regular.woff) format('woff'), url(https://example.com/MaterialIcons-Regular.ttf) format('truetype');
+}
+body,
+html {
+  background-color: #009688;
+  color: #fff;
+}
+.fixed {
+  position: fixed;
+  z-index: 99;
+}
+.artist {
+  background-color: #233a5a;
+  color: #00b8c0;
+}
+.palete {
+  width: 50px;
+  height: 50px;
+  float: left;
+  position: relative;
+}
+#move {
+  z-index: 100;
+  position: absolute;
+}
+.clear {
+  clear: both;
+}
+.pointer {
+  cursor: pointer;
+}
+#delete {
+  width: 50px;
+  height: 50px;
+  float: left;
+  position: relative;
+}
+canvas {
+  cursor: crosshair;
+  border: 1px solid #000000;
+}
+#canvas {
+  position: absolute;
+  left: 0;
+  z-index: 1;
+}
+#canvas2 {
+  position: absolute;
+  left: 0;
+  z-index: 0;
+  opacity: 0.1;
+}
+/*# sourceMappingURL=custom.css.map */

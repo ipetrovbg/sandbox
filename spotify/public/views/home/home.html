@@ -1,0 +1,54 @@
+<div layout="row" layout-wrap flex-offset=5 layout-padding md-theme="amazingPaletteName">
+	<md-input-container md-theme="amazingPaletteName" class="md-block" flex-gt-sm>
+		<label>Artist</label>
+		<input type="text" name="artist" ng-model="vm.artist.name">		
+	</md-input-container>
+	<md-input-container>	
+	    	<input flex type="number" step="1" ng-model="vm.artist.limit">
+	    </md-input-container>    
+		<div layout="row" layout-wrap layout-align="center center" md-theme="amazingPaletteName">
+			<div>
+				<md-button class="md-fab md-primary md-raised" ng-click="vm.searchArtist()">
+					<md-icon md-svg-src="public/bower_components/material-design-icons/av/svg/production/ic_library_music_24px.svg" aria-label="library_music"></md-icon>
+				</md-button>
+			</div>
+			<div>
+				<md-progress-circular class="md-warn md-hue-3" ng-show="vm.searchArtistActivated" md-diameter="20px">			
+				</md-progress-circular>
+			</div>
+		
+		</div>
+		
+	
+	
+</div>
+<div layout="row" layout-wrap flex-offset=5>
+	<div ng-repeat="artist in vm.artists" flex=25 flex-sm=50 flex-xs=100 layout-padding>
+		<md-card md-theme="amazingPaletteName" md-theme-watch="" class="md-list-item-text">
+			<md-card-title-media>
+				<div class="md-media-lg card-media">
+					<img ng-src="{{ artist.images[2].url }}">
+				</div>
+			</md-card-title-media>	
+			<md-card-title>
+				<md-card-title-text>
+					<span class="md-headline">{{ artist.name }}</span>
+					<span class="md-subhead">Popularity: {{ artist.popularity }}</span>
+				</md-card-title-text>				
+			</md-card-title>
+			<md-divider></md-divider>
+			<md-card-actions layout="row" layout-wrap layout-align="end center">
+				<md-button ng-repeat="ganre in artist.genres">{{ ganre }}</md-button>
+			</md-card-actions>
+		</md-card>
+	</div>
+</div>
+
+<!-- <md-content layout-padding="">
+    <md-grid-list md-cols-gt-md="6" md-cols="3" md-cols-md="3" md-row-height-gt-md="2:2" md-row-height="4:3" md-gutter-gt-md="16px" md-gutter-md="8px" md-gutter="4px">
+      <md-grid-tile ng-repeat="tile in vm.colorTiles" ng-style="{
+            'background': tile.color
+          }" md-colspan-gt-sm="{{tile.colspan}}" md-rowspan-gt-sm="{{tile.rowspan}}">
+      </md-grid-tile>
+    </md-grid-list>
+  </md-content> -->

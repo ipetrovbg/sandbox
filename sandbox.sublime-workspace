@@ -1,0 +1,738 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"can",
+				"canvas2"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"get",
+				"getWithOffset"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"new",
+				"newProduct"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"dail",
+				"daily_activities"
+			],
+			[
+				"gro",
+				"groupBy"
+			],
+			[
+				"id_",
+				"id_activities"
+			],
+			[
+				"D",
+				"Daily_Activities"
+			],
+			[
+				"ac",
+				"activities"
+			],
+			[
+				"pro",
+				"ProductName"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"Load",
+				"loadMyFiles"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"si",
+				"siteUrl"
+			],
+			[
+				"curr",
+				"currentMonth"
+			],
+			[
+				"event",
+				"eventSources"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"da",
+				"dailyActivities"
+			],
+			[
+				"ui",
+				"uiConfiq"
+			],
+			[
+				"boe",
+				"bower_components"
+			],
+			[
+				"bowe",
+				"bower_components"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"coo",
+				"ngCookies"
+			],
+			[
+				"month",
+				"months"
+			],
+			[
+				"arra",
+				"array_push"
+			],
+			[
+				"User",
+				"UserWeight"
+			],
+			[
+				"wi",
+				"weight"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"header",
+				"headerNotification"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spotify/public/scripts/app/app.js",
+			"settings":
+			{
+				"buffer_size": 1838,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spotify/public/views/home/canvas.html",
+			"settings":
+			{
+				"buffer_size": 1439,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spotify/public/scripts/app/controllers/canvas-controller.js",
+			"settings":
+			{
+				"buffer_size": 5530,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "spotify/public/styles/custom.css",
+			"settings":
+			{
+				"buffer_size": 1103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spotify/public/styles/custom.less",
+			"settings":
+			{
+				"buffer_size": 1003,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Material Theme: Activate theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 414.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/sandbox",
+		"/C/xampp/htdocs/sandbox/spotify",
+		"/C/xampp/htdocs/sandbox/spotify/public",
+		"/C/xampp/htdocs/sandbox/spotify/public/scripts",
+		"/C/xampp/htdocs/sandbox/spotify/public/scripts/app",
+		"/C/xampp/htdocs/sandbox/spotify/public/scripts/app/controllers",
+		"/C/xampp/htdocs/sandbox/spotify/public/scripts/app/services",
+		"/C/xampp/htdocs/sandbox/spotify/public/styles",
+		"/C/xampp/htdocs/sandbox/spotify/public/views",
+		"/C/xampp/htdocs/sandbox/spotify/public/views/home"
+	],
+	"file_history":
+	[
+		"/C/download/MOVIES/Nochnye.Strazhi.2016.HDTVRip.AC3/Nochnye.Strazhi.2016.HDTVRip.AC3.srt",
+		"/C/download/MOVIES/Nochnye.Strazhi.2016.HDTVRip.AC3/srt.srt",
+		"/C/xampp/htdocs/sandbox/spotify/index.html",
+		"/C/xampp/htdocs/sandbox/spotify/public/scripts/app/controllers/main-controller.js",
+		"/C/xampp/htdocs/sandbox/spotify/public/views/home/home.html",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/LESS/README.md",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/Material Theme/schemes/Material-Theme.tmTheme",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/User/LESS.sublime-settings",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/C/xampp/htdocs/sandbox/spotify/public/styles/custom.css.map",
+		"/C/xampp/htdocs/sandbox/spotify/public/scripts/app/services/artists.js",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/sandbox/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/nnutrisys/public/views/dashboard/home.html",
+		"/C/xampp/htdocs/nnutrisys/public/js/scripts/controllers/main.js",
+		"/C/xampp/htdocs/nnutrisys/resources/views/layouts/dashboard-app.blade.php",
+		"/C/xampp/htdocs/nnutrisys/public/js/scripts/app.js",
+		"/C/xampp/htdocs/nnutrisys/public/bower_components/voice-recognice/angular-adaptive-speech.js",
+		"/C/xampp/htdocs/nnutrisys/public/bower.json",
+		"/C/xampp/htdocs/sandbox/.htaccess",
+		"/C/xampp/htdocs/nnutrisys/app/Http/routes.php",
+		"/C/xampp/htdocs/nutrisys/routes/web.php",
+		"/C/xampp/htdocs/nutrisys/ftpsync.settings",
+		"/C/xampp/htdocs/nutrisys/.htaccess",
+		"/C/Users/ipetrovbg/Desktop/.htaccess",
+		"/C/xampp/htdocs/nutrisys/.env",
+		"/C/xampp/htdocs/crewjob/.env",
+		"/C/Users/ipetrovbg/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/ipetrovbg/AppData/Local/Temp/fz3temp-1/web.php",
+		"/C/xampp/htdocs/nutrisys/public/.htaccess",
+		"/C/xampp/htdocs/nutrisys/public/index.php",
+		"/C/xampp/htdocs/nutrisys/index.php",
+		"/C/xampp/htdocs/crewjob/public/.htaccess",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/add-product-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/sidebar/sidebar.html",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/sidebar/sidebar.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/app.js",
+		"/C/xampp/htdocs/nutrisys/public/css/styles/main.css",
+		"/C/xampp/htdocs/nutrisys/public/views/products.html",
+		"/C/xampp/htdocs/nutrisys/public/views/products/add-new.html",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/services/product-service.js",
+		"/C/xampp/htdocs/nutrisys/routes/api.php",
+		"/C/download/MOVIES/Avatar.2009.TC.BDRip.x264.AC3.DUAL-REFLUX/srt.srt",
+		"/C/download/MOVIES/Avatar.2009.TC.BDRip.x264.AC3.DUAL-REFLUX/avatar.bulgarian.bd.srt",
+		"/C/JS/angular.ui.reload.js",
+		"/C/xampp/htdocs/nutrisys/resources/views/layouts/dashboard-app.blade.php",
+		"/C/xampp/htdocs/sb-admin-angular-master/app/scripts/directives/sidebar/sidebar.js",
+		"/C/xampp/htdocs/nutrisys/bootstrap/app.php",
+		"/C/xampp/htdocs/nutrisys/config/app.php",
+		"/C/Users/ipetrovbg/Desktop/index.php",
+		"/C/xampp/htdocs/nutrisys/public/web.config",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/calendar-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/products-instance-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/query-modal-instance-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/products-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/public/views/modals/product-modal.html",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/add-event-modal-instance-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/add-product-to-event-modal-instance-ctrl.js",
+		"/C/xampp/htdocs/nutrisys/app/Product.php",
+		"/C/xampp/htdocs/nutrisys/app/User.php",
+		"/C/xampp/htdocs/nutrisys/config/database.php",
+		"/C/xampp/htdocs/nutrisys/public/views/modals/add-event-modal.html",
+		"/C/download/MOVIES/Ghostbusters.2016.1080p.WEB-DL.H264.AC3-EVO/Ghostbusters.2016.WEB-DL.x264-FGT.srt",
+		"/C/download/MOVIES/Ghostbusters.2016.1080p.WEB-DL.H264.AC3-EVO/srt.srt",
+		"/C/download/MOVIES/Mr.Robot.S02E12.720p.HDTV.x264-FLEET.srt",
+		"/C/download/MOVIES/srt.srt",
+		"/C/xampp/htdocs/nutrisys/public/views/dashboard/home.html",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/main.js",
+		"/C/xampp/htdocs/nutrisys/public/views/modals/query-date-modal.html",
+		"/C/xampp/htdocs/nutrisys/public/views/calendar.html",
+		"/C/xampp/htdocs/pnutrisys/application/models/Products.php",
+		"/C/xampp/htdocs/nutrisys/public/views/modals/add-product-to-event-modal.html",
+		"/C/xampp/htdocs/nutrisys/public/views/chart.html",
+		"/C/xampp/htdocs/nutrisys/database/migrations/2016_09_21_050959_create_table_dayly_activities.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Controllers/DashboardController.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/nutrisys/app/Daily_Activities.php",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/angular-bootstrap/ui-bootstrap-csp.css",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/bootstrap/dist/js/bootstrap.js",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/angular-bootstrap/ui-bootstrap.min.js",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/angular-bootstrap/ui-bootstrap.js",
+		"/C/xampp/htdocs/nutrisys/vendor/phpunit/phpunit/tests/TextUI/dataprovider-debug.phpt",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/services/date-parce.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/controllers/chartContoller.js",
+		"/C/xampp/htdocs/nutrisys/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/nutrisys/database/migrations/2016_09_20_090816_create_user_weight_table.php",
+		"/C/xampp/htdocs/nutrisys/database/migrations/2016_09_21_051438_create_table_activities.php",
+		"/C/xampp/htdocs/nutrisys/database/migrations/2016_09_20_081217_create_products_table.php",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/header/header-notification/header-notification.html",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/notifications/notifications.html",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/ui-calendar/bower.json",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/ui-calendar/src/calendar.js",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/services/user-service.js",
+		"/C/xampp/htdocs/nutrisys/public/views/dashboard/main.html",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/header/header-notification/header-notification.js",
+		"/C/xampp/htdocs/nutrisys/app/UserWeight.php",
+		"/C/xampp/htdocs/nutrisys/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/header/header.js",
+		"/C/xampp/htdocs/nutrisys/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/nutrisys/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/nutrisys/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/nutrisys/app/Providers/AuthServiceProvider.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Kernel.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Middleware/VerifyCsrfToken.php",
+		"/C/xampp/htdocs/nutrisys/app/Providers/EventServiceProvider.php",
+		"/C/xampp/htdocs/nutrisys/app/Providers/BroadcastServiceProvider.php",
+		"/C/xampp/htdocs/nutrisys/public/js/scripts/directives/header/header.html",
+		"/C/xampp/htdocs/nutrisys/public/js/sb-admin-2.js",
+		"/C/xampp/htdocs/nutrisys/copy.txt",
+		"/C/xampp/htdocs/nutrisys/public/js/app.js",
+		"/C/xampp/htdocs/nutrisys/resources/views/home.blade.php",
+		"/C/xampp/htdocs/nutrisys/public/bower_components/metisMenu/src/metisMenu.js",
+		"/C/xampp/htdocs/sb-admin-angular-master/app/index.html",
+		"/C/xampp/htdocs/nutrisys/public/css/styles/sb-admin-2.css",
+		"/C/xampp/htdocs/nutrisys/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/nutrisys/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/nutrisys/.env.example",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/sb-admin-angular-master/README.md",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/ipetrovbg/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/xampp/htdocs/test/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"-*.txt",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"')\n",
+			"<IfModule mod_rewrite.c>\n    <IfModule mod_negotiation.c>\n       # Options -MultiViews\n    </IfModule>\n\n    RewriteEngine On\n#    RewriteBase /home/nutrisys/public_html/\n    # Redirect Trailing Slashes If Not A Folder...\n    RewriteCond %{REQUEST_FILENAME} !-d\n    RewriteRule ^(.*)/$ /$1 [L,R=301]\n\n    # Handle Front Controller...\n    RewriteCond %{REQUEST_FILENAME} !-d\n    RewriteCond %{REQUEST_FILENAME} !-f\n    RewriteRule ^ index.php [L]\n\n    # Handle Authorization Header\n#    RewriteCond %{HTTP:Authorization} .\n#    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]\n\n</IfModule>\n",
+			"in_arr",
+			">\n",
+			"',\n",
+			"templateRequest",
+			"$uibModal",
+			"',\n",
+			"Auth",
+			"AuthenticatesUsers",
+			"scripts/directives/header/header.html",
+			"!!};\n",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spotify/public/scripts/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1658,
+								1658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 545.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spotify/public/views/home/canvas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1110,
+								1110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spotify/public/scripts/app/controllers/canvas-controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1045,
+								1045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3534.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "spotify/public/styles/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 346.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "spotify/public/styles/custom.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1000,
+								1000
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sandbox.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"app\\Http\\routes.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"api",
+				"routes\\api.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"dash",
+				"resources\\views\\layouts\\dashboard-app.blade.php"
+			],
+			[
+				"app",
+				"public\\js\\scripts\\app.js"
+			],
+			[
+				"das",
+				"resources\\views\\layouts\\dashboard-app.blade.php"
+			],
+			[
+				"side",
+				"public\\js\\scripts\\directives\\sidebar\\sidebar.html"
+			],
+			[
+				"main",
+				"public\\js\\scripts\\controllers\\main.js"
+			],
+			[
+				"da",
+				"resources\\views\\layouts\\dashboard-app.blade.php"
+			],
+			[
+				"dad",
+				"vendor\\phpunit\\phpunit\\tests\\TextUI\\dataprovider-debug.phpt"
+			],
+			[
+				"dashboard-a",
+				"resources\\views\\layouts\\dashboard-app.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 443.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
