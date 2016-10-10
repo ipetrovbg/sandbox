@@ -1,5 +1,5 @@
 # sandbox
-``code
+```js
 <VirtualHost sandbox.dev:80>
      ServerAdmin webmaster@sandbox.dev
      DocumentRoot C:\xampp\htdocs\sandbox
@@ -9,4 +9,4 @@
 
 C:\Windows\System32\drivers\etc
 127.0.0.2 sandbox.dev
-``
+```
